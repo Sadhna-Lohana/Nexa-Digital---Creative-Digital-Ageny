@@ -28,7 +28,7 @@ Nexa Digital is a creative digital agency website focused on presenting digital 
 
 ## 🌐 Live Demo
 
-Coming Soon!
+[View Live Website] (https://nexa-digital-creative-agency.netlify.app/)
 
 ## 👩‍💻 Author
 
